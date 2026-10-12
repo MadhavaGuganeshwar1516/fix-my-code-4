@@ -6,7 +6,7 @@ Features
 Find and fix coding errors
 Learn debugging techniques
 Contribute through pull requests
-Collaborate with other developers
+Collaborate with other developershhh
 How to Contribute
 Fork the repository
 Create a new branch
