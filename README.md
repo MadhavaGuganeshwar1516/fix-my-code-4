@@ -7,7 +7,7 @@ Find and fix coding errors
 Learn debugging techniques
 Contribute through pull requests
 Collaborate with other developershhh
-How to Contribute
+How to Contributerrr
 Fork the repository
 Create a new branch
 Make your changes
